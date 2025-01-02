@@ -11,14 +11,10 @@
             "id": "7a2f01d957348702",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My study Java on Skillbox/My study for Java on Skilldox.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "My study for Java on Skilldox"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -138,11 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "My study Java on Skillbox/My study for Java on Skilldox.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Структура My study for Java on Skilldox"
+              "title": "Структура"
             }
           },
           {
@@ -214,20 +208,20 @@
       "git-integration:Open git menu": false
     }
   },
-  "active": "4aa5ab56a555707f",
+  "active": "7a2f01d957348702",
   "lastOpenFiles": [
-    "02-01-2025.md",
+    "Без названия.canvas",
     "My study Java on Skillbox/My study for Java on Skilldox.md",
+    "30-12-2024.md",
+    "Без названия 1.canvas",
+    "New File.md",
+    "02-01-2025.md",
     "Без названия.md",
     "My study Java on Skillbox/recurses/links",
     "My study Java on Skillbox/recurses/db",
     "My study Java on Skillbox/recurses",
     "My study Java on Skillbox",
     "Без названия 2",
-    "Без названия 1",
-    "Без названия 1.canvas",
-    "New File.md",
-    "30-12-2024.md",
-    "Без названия.canvas"
+    "Без названия 1"
   ]
 }
