@@ -1,7 +1,6 @@
 [
   "calendar",
   "copilot",
-  "obsidian-git",
   "omnisearch",
   "obsidian-kanban",
   "dataview",
@@ -10,5 +9,5 @@
   "obsidian-audio-player",
   "url-into-selection",
   "git-integration",
-  "github-sync"
+  "obsidian-git"
 ]

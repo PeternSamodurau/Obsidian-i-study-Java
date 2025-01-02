@@ -178,19 +178,9 @@
               "icon": "message-square",
               "title": "Copilot"
             }
-          },
-          {
-            "id": "88dc1fc26e214650",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -214,7 +204,7 @@
       "git-integration:Open git menu": false
     }
   },
-  "active": "7a2f01d957348702",
+  "active": "40c591fb7e4a4696",
   "lastOpenFiles": [
     "02-01-2025.md",
     "My study Java on Skillbox/My study for Java on Skilldox.md",
