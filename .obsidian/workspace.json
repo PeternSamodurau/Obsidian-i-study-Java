@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New File.md"
+                "file": "My study Java on Skillbox/My study for Java on Skilldox.md"
               },
               "icon": "lucide-list",
-              "title": "Структура New File"
+              "title": "Структура My study for Java on Skilldox"
             }
           },
           {
@@ -190,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -214,7 +214,7 @@
       "git-integration:Open git menu": false
     }
   },
-  "active": "aac836ff41b9350e",
+  "active": "77e5697c2be34077",
   "lastOpenFiles": [
     "My study Java on Skillbox/My study for Java on Skilldox.md",
     "Без названия.md",
