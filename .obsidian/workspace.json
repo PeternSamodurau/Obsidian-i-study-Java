@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7bd44a3f334b1f9c",
+        "id": "1cc8ba882e666a42",
         "type": "tabs",
         "children": [
           {
-            "id": "57ed855a980bab89",
+            "id": "7a2f01d957348702",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Без названия.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Без названия"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -217,13 +210,19 @@
       "git-integration:Open git menu": false
     }
   },
-  "active": "57ed855a980bab89",
+  "active": "aac836ff41b9350e",
   "lastOpenFiles": [
-    "30-12-2024.md",
-    "Без названия.canvas",
-    "02-01-2025.md",
+    "Без названия.md",
+    "My study Java on Skillbox/recurses/links",
+    "My study Java on Skillbox/recurses/db",
+    "My study Java on Skillbox/recurses",
+    "My study Java on Skillbox",
+    "Без названия 2",
+    "Без названия 1",
     "Без названия 1.canvas",
     "New File.md",
-    "Без названия"
+    "30-12-2024.md",
+    "Без названия.canvas",
+    "02-01-2025.md"
   ]
 }
