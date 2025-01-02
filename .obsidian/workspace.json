@@ -11,14 +11,17 @@
             "id": "57ed855a980bab89",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "02-01-2025.md",
-                "mode": "source",
-                "source": false
+                "file": "Без названия.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "02-01-2025"
+              "icon": "lucide-layout-dashboard",
+              "title": "Без названия"
             }
           }
         ]
@@ -216,10 +219,10 @@
   },
   "active": "57ed855a980bab89",
   "lastOpenFiles": [
-    "Без названия 1.canvas",
+    "30-12-2024.md",
     "Без названия.canvas",
     "02-01-2025.md",
-    "30-12-2024.md",
+    "Без названия 1.canvas",
     "New File.md",
     "Без названия"
   ]
