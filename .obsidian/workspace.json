@@ -11,10 +11,14 @@
             "id": "7a2f01d957348702",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "My study Java on Skillbox/My study for Java on Skilldox.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "My study for Java on Skilldox"
             }
           }
         ]
@@ -212,6 +216,7 @@
   },
   "active": "aac836ff41b9350e",
   "lastOpenFiles": [
+    "My study Java on Skillbox/My study for Java on Skilldox.md",
     "Без названия.md",
     "My study Java on Skillbox/recurses/links",
     "My study Java on Skillbox/recurses/db",
