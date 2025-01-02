@@ -2,5 +2,5 @@
   "remoteURL": "https://github.com/PeternSamodurau/Obsidian-i-study-Java.git",
   "gitLocation": "",
   "syncinterval": 0,
-  "isSyncOnLoad": false
+  "isSyncOnLoad": true
 }
