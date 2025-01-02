@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "My study Java on Skillbox/My study for Java on Skilldox.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
@@ -178,9 +178,19 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "4aa5ab56a555707f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -204,7 +214,7 @@
       "git-integration:Open git menu": false
     }
   },
-  "active": "40c591fb7e4a4696",
+  "active": "7a2f01d957348702",
   "lastOpenFiles": [
     "02-01-2025.md",
     "My study Java on Skillbox/My study for Java on Skilldox.md",
