@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My study Java on Skillbox/My study for Java on Skilldox.md",
+                "file": "02-01-2025.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "My study for Java on Skilldox"
+              "title": "02-01-2025"
             }
           }
         ]
@@ -214,9 +214,10 @@
       "git-integration:Open git menu": false
     }
   },
-  "active": "88dc1fc26e214650",
+  "active": "7a2f01d957348702",
   "lastOpenFiles": [
     "My study Java on Skillbox/My study for Java on Skilldox.md",
+    "02-01-2025.md",
     "Без названия.md",
     "My study Java on Skillbox/recurses/links",
     "My study Java on Skillbox/recurses/db",
@@ -227,7 +228,6 @@
     "Без названия 1.canvas",
     "New File.md",
     "30-12-2024.md",
-    "Без названия.canvas",
-    "02-01-2025.md"
+    "Без названия.canvas"
   ]
 }
