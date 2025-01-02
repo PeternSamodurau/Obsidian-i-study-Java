@@ -9,5 +9,6 @@
   "oz-clear-unused-images",
   "obsidian-audio-player",
   "url-into-selection",
-  "git-integration"
+  "git-integration",
+  "github-sync"
 ]
