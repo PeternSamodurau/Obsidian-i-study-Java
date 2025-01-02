@@ -2,5 +2,6 @@
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "uriCallbacks": true
+  "uriCallbacks": true,
+  "promptDelete": false
 }
