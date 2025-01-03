@@ -1,6 +1,6 @@
 | First Name | Last Name | Email                   | Password   |
 | ---------- | --------- | ----------------------- | ---------- |
-| Luuk       | Smit      | luuk.smit@gmail.com     | V7eF5rJ3zL |
+| Luuk       | Smit      | luuk.smit1970@gmail.com | V7eF5rJ3zL |
 | Lisa       | Boer      | lisa.boer@gmail.com     | W9kM4sB2yN |
 | Finn       | Mulder    | finn.mulder@gmail.com   | D1lG7tV6mP |
 | Lotte      | Bos       | lotte.bos@gmail.com     | X8pR5hQ9zM |
